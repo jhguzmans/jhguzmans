@@ -14,10 +14,11 @@ Full Stack Developer con background de ingeniero civil que me ha servido para de
 
 ⚡️ Soy ciclista experimentado.
 
-## 🔗 Puedes encontrarme tambien en:
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianguzmanfs/)
-
 ## 🛠 Skills
 
 JavaScript || HTML || CSS || React || Redux || Git || Node JS || Express || SQL || Sequelize || Testing || Scrum
+
+## 🔗 Puedes encontrarme tambien en:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianguzmanfs/)
+[Email] jhguzmans@unal.edu.co 
