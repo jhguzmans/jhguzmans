@@ -10,7 +10,7 @@ Full Stack Developer con background de ingeniero civil que me ha servido para de
 
 🧠 Actualmente estoy aprendiendo typescript e ingles.
 
-👯‍♀️ Quiero entrar a un proyecto de colaboración desde el lado del backend.
+👯‍♀️ Quiero entrar a un proyecto de colaboración desde el lado del backend o del frontend.
 
 ⚡️ Soy ciclista experimentado.
 
