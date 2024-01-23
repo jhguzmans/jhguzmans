@@ -1,7 +1,17 @@
 <h1 align="center">Hola 👋, Soy Julian Guzman</h1>
 <h3 align="center">Full Stack Developer con background de ingeniero civil que me ha servido para desarrollar mis capacidades matemáticas, analíticas, de trabajo en equipo, gestión de proyectos y resolución de problemas, especializado en Back-end y Front-end.</h3>
 
+- 🔭 Actualmente soy docente de matemáticas y física de bachillerato.
+
+- 🌱 Mientras estás viendo esto, estoy estudiando TypeScript, Graphql e ingles.
+
+- 👯 Quiero entrar a un proyecto de colaboración desde el lado del backend o del frontend.
+
+- 🤝 Busco mi primer empleo en IT para recrear proyectos que le generen crecimiento a las comunidades y a las compañias en las que labore.
+
 - 📫 ¿Cómo me contactas? **jhguzmans@unal.edu.co**
+
+- ⚡ Además soy ciclista.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
